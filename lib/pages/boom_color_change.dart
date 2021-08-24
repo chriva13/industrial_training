@@ -9,6 +9,9 @@ class BoomColorChange extends StatelessWidget {
       appBar: AppBar(
         title: Text('Boom Color Change'),
       ),
+      body: Center(
+        child: Text('Welcome'),
+      ),
     );
   }
 }
